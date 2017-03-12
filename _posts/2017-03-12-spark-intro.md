@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Binu Keloth, Spark Introduction"
+title: "Spark Introduction"
 date: 2017-03-12
 ---
 
